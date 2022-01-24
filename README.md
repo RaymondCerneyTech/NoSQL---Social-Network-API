@@ -1,4 +1,4 @@
-#
+# NoSQL Social Network API
 
 ## Instructions:
 
@@ -9,6 +9,7 @@
 - VSCode
 - JavaScript
 - Node.JS
+- NoSQL
 
 ## Website:
 
@@ -16,7 +17,7 @@ https://raymondcerneytech.github.io/ /
 
 ### Preview:
 
-![Picture of _____________](./assets/images/ .PNG)
+![Picture of NoSQLSocialNetworkAPI](./assets/images/NoSQLSocialNetworkAPI.PNG)
 
 ### Author:
 
